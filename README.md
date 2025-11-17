@@ -5,7 +5,9 @@ To analyse the stability of the system having open loop transfer function, G(S)=
 Computer with MATLAB software
 
 ## Theory:
+![WhatsApp Image 2025-11-17 at 18 03 17_798dda1f](https://github.com/user-attachments/assets/154ade04-08e4-4772-9778-9131200f6550)
 
+![WhatsApp Image 2025-11-17 at 18 03 18_e5272145](https://github.com/user-attachments/assets/d465c407-27da-4af3-a649-a125b2443d99)
 
 
 ## Procedure:
@@ -34,16 +36,17 @@ end
 ~~~
 
 ## Output:
-<img width="1654" height="1024" alt="image" src="https://github.com/user-attachments/assets/e3067cb2-6ee3-4ce8-a43b-b6792fe5fa6f" />
+<img width="1788" height="953" alt="image" src="https://github.com/user-attachments/assets/0c3fe222-c6be-45f4-81c2-d86cc68a21eb" />
 
 ## Result:
 Thus the bode plot for the given transfer function was drawn and verified using MATLAB. <br>
-Gain margin = 
 
-Phase Margin = 
+Gain margin = 12
 
-Gain crossover frequency = 0.902 rad/s
+Phase Margin = 60.42
 
-Phase crossover frequency = 4.43 rad/s
+Gain crossover frequency = 0.90 rad/s
+
+Phase crossover frequency = 4.47 rad/s
 
 The system is STABLE
